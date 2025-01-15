@@ -1,0 +1,86 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# dotenv
+.env
+.env.local
+.env.*.local
+
+# Build files
+/build
+/dist
+/out
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.backup
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage reports
+coverage/
+*.lcov
+
+# IDE and Editor files
+.vscode/
+.idea/
+.DS_Store
+*.sublime-workspace
+*.sublime-project
+*.iml
+
+# System Files
+Thumbs.db
+.DS_Store
+*.stackdump
+ehthumbs.db
+
+# Deployment files
+*.pem
+*.crt
+*.key
+
+# React-specific
+*.cache
+*.env.local
+config-overrides.js
+
+# Ignore .next (if using Next.js)
+.next/
+
+# Ignore build files for Vercel or Netlify
+.vercel/
+.netlify/
+
+# Ignore specific files for MongoDB backups (if applicable)
+*.dump
+dump/
+
+# Ignore archives and compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Ignore public/assets if dynamically generated
+/public/assets/
+
+# Ignore sensitive files
+credentials.json
+serviceAccountKey.json
+
+# MongoDB
+*.dump
+dump/
