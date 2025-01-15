@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NikosMple.github.io/Keeper-FullStack/static/css/main.1953e704.css",
+    "main.js": "/NikosMple.github.io/Keeper-FullStack/static/js/main.c2906166.js",
+    "static/media/no-data.png": "/NikosMple.github.io/Keeper-FullStack/static/media/no-data.2c06778f0a81431b0998.png",
+    "static/media/add-notes.png": "/NikosMple.github.io/Keeper-FullStack/static/media/add-notes.8227851a0172b7262e6f.png",
+    "index.html": "/NikosMple.github.io/Keeper-FullStack/index.html",
+    "main.1953e704.css.map": "/NikosMple.github.io/Keeper-FullStack/static/css/main.1953e704.css.map",
+    "main.c2906166.js.map": "/NikosMple.github.io/Keeper-FullStack/static/js/main.c2906166.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1953e704.css",
+    "static/js/main.c2906166.js"
+  ]
+}
