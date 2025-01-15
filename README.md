@@ -83,16 +83,17 @@ Welcome to this full-stack application showcasing modern technologies for authen
    npm install
    
 6. Start the frontend application:
-  ```bash
-  npm start
-```
+   ```bash
+   npm start
+   ```
 ---
 
 ***💡 Notes***
 - Replace <your-mongodb-atlas-connection-string> with the URI of your MongoDB Atlas cluster.
 - Replace <your-jwt-secret> with your unique secret key for signing tokens.
 - The application assumes the Backend runs on http://localhost:8000 and the Frontend on http://localhost:3000 by default. Ensure the axiosInstance in the frontend is configured accordingly.
-  
+
+
 📜 License
 This project is licensed for personal and educational use only. Contributions and pull requests are welcome!
 
