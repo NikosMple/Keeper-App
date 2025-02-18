@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/NikosMple.github.io/Keeper-FullStack/static/css/main.1953e704.css",
-    "main.js": "/NikosMple.github.io/Keeper-FullStack/static/js/main.c2906166.js",
-    "static/media/no-data.png": "/NikosMple.github.io/Keeper-FullStack/static/media/no-data.2c06778f0a81431b0998.png",
-    "static/media/add-notes.png": "/NikosMple.github.io/Keeper-FullStack/static/media/add-notes.8227851a0172b7262e6f.png",
-    "index.html": "/NikosMple.github.io/Keeper-FullStack/index.html",
-    "main.1953e704.css.map": "/NikosMple.github.io/Keeper-FullStack/static/css/main.1953e704.css.map",
-    "main.c2906166.js.map": "/NikosMple.github.io/Keeper-FullStack/static/js/main.c2906166.js.map"
+    "main.css": "/Keeper-App/static/css/main.d0159fb8.css",
+    "main.js": "/Keeper-App/static/js/main.302d7dd1.js",
+    "static/media/add-notes.png": "/Keeper-App/static/media/add-notes.7c8316441fc7ec3772ca.png",
+    "index.html": "/Keeper-App/index.html",
+    "main.d0159fb8.css.map": "/Keeper-App/static/css/main.d0159fb8.css.map",
+    "main.302d7dd1.js.map": "/Keeper-App/static/js/main.302d7dd1.js.map"
   },
   "entrypoints": [
-    "static/css/main.1953e704.css",
-    "static/js/main.c2906166.js"
+    "static/css/main.d0159fb8.css",
+    "static/js/main.302d7dd1.js"
   ]
 }
